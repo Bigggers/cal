@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="bt1">AC</string>
+    <string name="bt2">BACK</string>
+    <string name="bt3">7</string>
+    <string name="bt4">8</string>
+    <string name="bt5">9</string>
+    <string name="bt6">*</string>
+    <string name="bt7">4</string>
+    <string name="bt8">5</string>
+    <string name="bt9">6</string>
+    <string name="bt10">-</string>
+    <string name="bt11">1</string>
+    <string name="bt12">2</string>
+    <string name="bt13">3</string>
+    <string name="bt14">+</string>
+    <string name="bt15">0</string>
+    <string name="bt16">.</string>
+    <string name="bt17">=</string>
+    <string name="bt18">/</string>
+    <string name="bt19">BIN</string>
+    <string name="bt20">HEX</string>
+    <string name="defaultText">0</string>
+    <drawable name="bkcolor">#000000</drawable>
+
+</resources>
